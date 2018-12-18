@@ -1,0 +1,22 @@
+{
+  "name": "chinese-loader",
+  "version": "1.0.1",
+  "description": "chinese-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "chinese",
+    "loader"
+  ],
+  "author": "loo4p",
+  "license": "MIT",
+  "homepage": "https://github.com/loo41/chinese-loader.git",
+  "devDependencies": {
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.6.0",
+    "webpack": "^4.27.1"
+  }
+}
