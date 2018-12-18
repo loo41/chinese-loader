@@ -70,4 +70,4 @@ module.exports = {
 
 #### Tip
 
-- 中文，你懂的，编辑器在你现的时候报很多warn，等啥时候弄个vscode插件即可
+- 编辑器在你写的时候报很多warn，等啥时候弄个vscode插件即可
