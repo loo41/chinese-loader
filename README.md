@@ -66,8 +66,8 @@ module.exports = {
 | ------ | ------ |
 | let    | 变量   |
 | .....  | ...... |
+[more](https://github.com/loo41/chinese-loader/blob/master/const.js)
 
 
 #### Tip
 
-- 编辑器在你写的时候报很多warn，等啥时候弄个vscode插件即可
